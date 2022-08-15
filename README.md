@@ -1,7 +1,7 @@
-# Humain-Lab Car Engine Audio Database (HL-CEAD)
+# Car Engine Audio Database (CEAD)
 Dataset with audio files from car engines.
 
-The Humain-Lab Car Engine Audio Database (HL-CEAD) consists of ~15-second audio recordings of different car engines from 16 different manufacturers. The manufacturers, models and number of recordings are shown below:
+The Car Engine Audio Database (CEAD) consists of ~15-second audio recordings of different car engines from 16 different manufacturers. The manufacturers, models and number of recordings are shown below:
 
 <details><summary>
 Database Details
